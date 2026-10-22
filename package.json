@@ -1,14 +1,10 @@
 {
   "name": "whatsapp_gemini_bot",
   "version": "1.0.0",
-  "description": "WhatsApp Gemini Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "@whiskeysockets/baileys": "^6.7.8",
